@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, REST API, and JavaScript**
 - 💬 Ask me about **HTML, CSS, PHP, Laravel, and GitHub**
-- 📫 How to reach me: **wanzzy1@example.com** (ganti emailmu di sini)
+- 📫 How to reach me: **arcwahdan@gmail.com** (ganti emailmu di sini)
 - ⚡ Fun fact: I love building UI and debugging late at night 🌙
 
 ---
