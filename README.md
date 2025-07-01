@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wanzzy1</h1>
+<h1 align="center">Hi 👋, I'm wanzyy</h1>
 <h3 align="center">A passionate Web Developer & RPL Student from Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel, REST API, and JavaScript**
